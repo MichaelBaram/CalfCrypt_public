@@ -12,10 +12,11 @@ It is written by 19 year old Michael Baram, living in Belgium (so far...).
   - Key size : 256 bits
   - Block size : 128 bits
   - CBC (IV : 0x30*16) 
-- **PBKDF2 - SHA-256** 
+- **PBKDF2 - SHA-256** Key generation
   - Salt : "michael baram"
   - Iteration count : 10000
-- **PKCS#7**
+  - Password : chosen by user
+- **PKCS#7** Padding
 
 #### Features
 - Recursively encrypts/decrypts files
