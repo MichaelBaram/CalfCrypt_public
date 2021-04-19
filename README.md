@@ -24,6 +24,7 @@ It is written by 19 year old Michael Baram, living in Belgium (for the time bein
 - Displays the number of files and the total number of bytes encrypted or decrypted as well as the time spent to perform the tasks
 - Displays detailed errors if needed
 - Data loss prevention : the user has to clearly elect to delete any file
+- Protects agains padding oracle attack on CBC encryption
 
 
 >The journey is the reward - S.J.
