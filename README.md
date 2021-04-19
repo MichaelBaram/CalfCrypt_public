@@ -1,5 +1,4 @@
-# CalfCrypt_public
-alias (CC)
+# CalfCrypt_public (alias CC)
 
 It is a standalone small, performant, portable and efficient program to encrypt and decrypt files on you computer.
 To use it, compile the program and click on CalfCrypt.exe.
