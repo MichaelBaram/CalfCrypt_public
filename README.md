@@ -4,7 +4,7 @@ It is a standalone ,easy to use, small, performant, ~~portable~~ and efficient p
 To use it, download and click on CalfCrypt.exe. (It may not work because it is written in machine code for my machine).
 Then follow the instructions on the terminal.
 
-It is written by 19 year old Michael Baram, living in Belgium (so far...).
+It is written by 19 year old Michael Baram, living in Belgium (for the time being...).
 
 ## Specifications
 #### Algorithms
