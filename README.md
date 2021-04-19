@@ -1,9 +1,28 @@
 # CalfCrypt_public (alias CC)
 
-It is a standalone small, performant, portable and efficient program to encrypt and decrypt files on you computer.
-To use it, compile the program and click on CalfCrypt.exe.
+It is a standalone ,easy to use, small, performant, ~~portable~~ and efficient program to encrypt and decrypt files on you computer.
+To use it, download and click on CalfCrypt.exe. (It may not work because it is written in machine code for my machine).
 Then follow the instructions on the terminal.
 
 It is written by 19 year old Michael Baram, living in Belgium (so far...).
+
+## Specifications
+#### Algorithms
+- **AES** (Rijndael) 
+  - Key size : 256 bits
+  - Block size : 128 bits
+  - CBC (IV : 0x30*16) 
+- **PBKDF2 - SHA-256** 
+  - Salt : "michael baram"
+  - Iteration count : 10000
+- **PKCS#7**
+
+#### Features
+- Recursively encrypts/decrypts files
+- Stores text output in a text file
+- Displays the number of files and the total number of bytes encrypted or decrypted as well as the time spent to perform the tasks
+- Displays detailed errors if needed
+- Data loss prevention : the user has to clearly elect to delete any file
+
 
 >The journey is the reward - S.J.
