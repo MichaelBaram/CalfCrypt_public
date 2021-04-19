@@ -1,6 +1,6 @@
 # CalfCrypt_public (alias CC)
 
-It is a standalone ,easy to use, small, performant, ~~portable~~ and efficient program to encrypt and decrypt files on you computer.
+It is a standalone, easy to use, small, performant, ~~portable~~ and efficient program to encrypt and decrypt files on you computer.
 To use it, download and click on CalfCrypt.exe. (It may not work because it is written in machine code for my machine).
 Then follow the instructions on the terminal.
 
