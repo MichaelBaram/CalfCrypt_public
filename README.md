@@ -25,6 +25,8 @@ It is written by 19 year old Michael Baram, living in Belgium (for the time bein
 - Displays detailed errors if needed
 - Data loss prevention : the user has to clearly elect to delete any file
 - Protects agains padding oracle attack on CBC encryption
+- The user can choose to run the tests only
+- The user can choose to store the key in a text file
 
 
 >The journey is the reward - S.J.
