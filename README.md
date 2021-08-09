@@ -14,7 +14,7 @@ It is written by 19 year old Michael Baram, living in Belgium (for the time bein
   - CBC (IV : 0x30*16) 
 - **PBKDF2 - SHA-256** Key generation
   - Salt : "michael baram"
-  - Iteration count : **????**
+  - Iteration count : 777777
   - Password : chosen by user
 - **PKCS#7** Padding
 
